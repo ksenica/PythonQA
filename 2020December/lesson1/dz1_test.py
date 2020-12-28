@@ -1,5 +1,6 @@
 import pytest
 
 
-def test_dc1():
+def test_dz1():
+
     assert 2 * 2 == 4
